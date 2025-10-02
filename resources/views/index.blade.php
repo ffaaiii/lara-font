@@ -8,8 +8,8 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous" />
     <!-- my css -->
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/jarallax.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/jarallax.css" />
 
     <title>Web Portofolio Kelompok</title>
     <h1>Hi we are Kelompok 1</h1>
@@ -150,9 +150,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <!-- Latest compiled JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-    <script src="js/script.js"></script>
-    <script src="js/jarallax.js"></script>
-    <script src="js/jarallax-element.js"></script>
+    <script src="/js/script.js"></script>
+    <script src="/js/jarallax.js"></script>
+    <script src="/js/jarallax-element.js"></script>
     <!-- End Scripts -->
   </body>
 </html>
